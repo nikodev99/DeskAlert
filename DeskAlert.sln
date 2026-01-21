@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskAlert.Class", "DeskAlert.Class\DeskAlert.Class.csproj", "{983F6BC6-3A64-43F7-A3FC-F6A38B3F9FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskAlert.Display", "DeskAlert.Display\DeskAlert.Display.csproj", "{6FC41878-1B07-47AB-9A90-F00EC31112E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983F6BC6-3A64-43F7-A3FC-F6A38B3F9FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983F6BC6-3A64-43F7-A3FC-F6A38B3F9FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983F6BC6-3A64-43F7-A3FC-F6A38B3F9FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983F6BC6-3A64-43F7-A3FC-F6A38B3F9FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC41878-1B07-47AB-9A90-F00EC31112E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC41878-1B07-47AB-9A90-F00EC31112E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC41878-1B07-47AB-9A90-F00EC31112E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC41878-1B07-47AB-9A90-F00EC31112E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
